@@ -1,5 +1,13 @@
 <h1 align="center"> Snippad | An Online IDE </h1>
 
+<p align="center"> <b> Your personal, multi-language code playground in the browser. </b> </p>
+
+<p align="center">
+  🔗 <a href="https://snippad-vert.vercel.app"><b>Live Demo → prepedgeai.vercel.app</b></a>
+</p>
+
+![Vercel](https://img.shields.io/badge/Frontend-Vercel-black) ![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 ---
 
 <h3><b>📚 Table of Contents </b></h3>
